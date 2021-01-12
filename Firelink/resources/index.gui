@@ -1,0 +1,149 @@
+
+ <!-----------------     Bonfire Gif                                     --------------------------->
+<svg class="myanimation"  width="100%" height="100%" >
+      <svg x="-100" y="30">
+  <use id="myanimation" href="#frames" />
+</svg>
+     
+  
+  
+   
+  <!-----------------     Souls image in top left and bottom right       --------------------------->
+ <svg>
+  <image href="images/souls.png" width="40%" height="15%" x="55%" y="83%"/>
+  <text id="souls"></text>
+</svg>
+    
+ <svg>
+  <image href="images/heartRate.png" width="20%" height="30%" x="0%" y="0%"/>
+  <text id="souls"></text>
+</svg>
+  
+  <!----------------------------------------------------------------------------------------------->
+    
+  
+  
+  
+  
+<!--puts a gray background behind both of the bars  --------------------------------------------->
+<svg>
+  <image href="images/default_bar.png" width="70%" height="8%" x="20%" y="6%"/>
+  <text id="souls"></text>
+</svg>
+  
+<svg>
+  <image href="images/default_bar.png" width="40%" height="8%" x="20%" y="15%"/>
+  <text id="souls"></text>
+</svg>
+ <!----------------------------------------------------------------------------------------------->
+
+  
+  
+ 
+  <!-- Outlines for the health and endurance bar as well as the green/red underlay for them --> 
+<svg>
+  <image href="images/health_bar.png" id="health_bar" width="70%" height="8%" x="20%" y="6%"/>
+  <text id="souls"></text>
+</svg>
+  
+<svg>
+  <image href="images/health_outline.png" width="70%" height="8%" x="20%" y="6%"/>
+  <text id="souls"></text>
+</svg>
+     
+    
+<svg>
+  <image href="images/endurance_bar.png" id="endurance_bar" width="40%" height="8%" x="20%" y="15%"/>
+  <text id="endurance_bar"></text>
+</svg> 
+  
+ <svg> 
+  <image href="images/endurance_outline.png" width="40%" height="8%" x="20%" y="15%"/>
+  <text id="souls"></text>
+</svg> 
+ <!----------------------------------------------------------------------------------------------->
+  
+  
+   
+  <!----------------------------- HR in The Top Left -------------------------------------------->
+<svg>
+  <text id="heartRate" x="10%+3" y="18%+3"
+        font-family="Fabrikat-Bold" fill="#CECCCB"
+        font-size="24" 
+        text-anchor="middle"></text>
+</svg>
+  <!----------------------------------------------------------------------------------------------->
+  
+ 
+  
+  <!----------------------------- Time -------------------------------------------------------->
+ <svg>
+      <text id="time"
+          x="40%"
+          y="55%"
+          font-family="Fabrikat-Bold"
+          fill="#CECCCB"
+          font-size="90"
+          text-length="36"
+       ></text>
+</svg>
+  <!--------------------------------------------------------------------------------------->
+  
+  
+  
+ <!----------------------------- Date ------------------------------------------------------>
+ <svg>
+    <text id="date"
+            x="61%"
+            y="68%"
+            font-family="Fabrikat-Bold"
+            fill="#CECCCB"
+            font-size="24"
+            text-length="32">
+    </text>
+  </svg>
+ <!------------------------------------------------------------------------------------------->
+  
+  
+ <!----------------------------- Goal Scrolling ------------------------------------------------------>
+ <svg>
+  <use id="stats-cycle" href="#cycleview">
+    
+    
+      <use id="steps" href="#cycleview-item" class="cycle-item" >
+        <text x="80%">Steps</text>
+        <text  id="numSteps" x="55%" font-size="32"></text>
+      </use>
+    
+      <use  href="#cycleview-item" class="cycle-item" >
+          <text x="75%">Calories</text>
+          <text x="55%" font-size="32" id="numCalories"></text>
+        </use>
+
+      <use href="#cycleview-item" class="cycle-item" >
+          <text x="86%" id="distUnits">km</text>
+          <text x="55%" font-size="32" id="numDist"></text>
+        </use>
+
+      <use href="#cycleview-item" class="cycle-item">
+          <text x="82%">Mins</text>
+          <text x="55%" font-size="32" id="numMins"></text>
+        </use>
+
+      <use href="#cycleview-item" class="cycle-item" >
+          <text x="82%">Elev</text>
+          <text x="55%" font-size="32" id="numElev"> </text>
+       </use>
+        
+    </use>
+    
+ 
+</svg> 
+  
+  <!----------------------------------------------------------------------------------------------------------->
+  
+  
+  
+  
+
+  

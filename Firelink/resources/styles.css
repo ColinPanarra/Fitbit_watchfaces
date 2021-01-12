@@ -1,0 +1,23 @@
+.myanimation{
+  
+}
+
+#souls {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 0%;
+  fill: white;
+}
+.cycle-item text {
+  font-size: 22;
+  font-family: Fabrikat;
+  font-weight: regular;
+  text-length: 32;
+  fill: #B69548;
+ x: 100%-10;
+  y:100%-10;
+  
+}
