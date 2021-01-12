@@ -1,0 +1,70 @@
+<svg>
+<!----------------------------- Fred the Red  ------------------------------------------------------>
+<svg>
+    <image href="images/fred_shadow.png" x="154" y="15%" width="63%" height="85%" />
+    <text id="fred">  </text>
+</svg>
+
+<svg>
+    <image href="images/fred_transparent.png" x="153" y="15%" width="63%" height="85%" />
+    <text id="fred">  </text>
+</svg>
+  
+     
+  
+ <!------------------------------------------------------------------------------------------->
+  
+
+  <!----------------------------- Time -------------------------------------------------------->
+<svg>
+      <text id="timeOutline"
+          x="13"
+          y="125"
+          font-family="Fabrikat-Bold"
+           fill="#a89d32"
+     
+          font-size="75"
+          text-length="36">
+      </text>
+</svg>
+<svg>
+    <text id="time"
+          x="15"
+          y="125"
+          font-family="Fabrikat-Bold"
+         
+          fill="#f52222"
+          font-size="75"
+          text-length="36"
+       ></text>
+    
+    
+    
+</svg>
+  <!--------------------------------------------------------------------------------------->
+
+  
+ <!----------------------------- Date ------------------------------------------------------>
+  <svg>
+    <text id="dateOutline"
+            x="25"
+            y="155"
+            font-family="Fabrikat-Bold"
+            fill="#a89d32"
+            font-size="28"
+            text-length="32">
+    </text>
+</svg>
+
+<svg>
+    <text id="date"
+            x="24"
+            y="155"
+            font-family="Fabrikat-Bold"
+            fill="#f52222"
+            font-size="28"
+            text-length="32">
+    </text>
+  </svg>
+ <!------------------------------------------------------------------------------------------->
+</svg>

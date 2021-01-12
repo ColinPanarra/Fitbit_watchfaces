@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "eb48885a-c7bf-4b00-9186-b8732d8a225e",
+    "appType": "clockface",
+    "appDisplayName": "Manchester United",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Manchester United"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
