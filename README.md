@@ -4,4 +4,4 @@
 Fitbit ionic watch faces I've made for my smartwatch using FITBIT SDK
 
 
-![Example Image](Fitbit_watchfaces/MUFC_Watch/MUFC Preview.png)
+![Example Image](/MUFC_Watch/MUFC Preview.png)
