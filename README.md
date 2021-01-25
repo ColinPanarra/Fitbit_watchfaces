@@ -9,7 +9,7 @@ FireLink also has a cycle to check progress on other fitness stats.
 
 
 
-![FinalFantasy](FinalFF7_watch/ff7Video.mp4)
+![FinalFantasy](FF7_watch/ff7gif.gif)
 
 ![FireLink](Firelink/firelink.gif)
 
