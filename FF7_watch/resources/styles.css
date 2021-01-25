@@ -1,0 +1,68 @@
+
+
+#currTime {
+  font-size: 52;
+  font-family: Fabrikat-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 36%-4;
+  y: 85%;
+  fill: white;
+}
+
+#currDay{
+  x:82%;
+  y:90%;
+  font-family: Fabrikat-Bold;
+  text-anchor:middle;
+  fill:white; 
+  font-size:32; 
+  text-length:32; 
+}
+
+#currMonth{
+  x:82%;
+  y:77%;
+  font-family: Fabrikat-Bold;
+  fill:white; 
+  font-size:36; 
+  text-anchor:middle;
+  text-length:32; 
+}
+
+.menuValues{
+  x:60%;
+  
+  font-family: Fabrikat;
+  fill:white; 
+  font-size:34; 
+  
+  text-length:32; 
+}
+
+.menuLabels{
+  x:41%;
+  
+  font-family: Fabrikat;
+  fill:#4ff7ef; 
+  font-size:34; 
+  
+  text-length:32; 
+}
+
+
+.img{
+  width: 35%;
+    height:54%;
+  
+    x:5%;
+  
+    y:5%;
+}
+
+.emptyBar{
+  fill:gray;
+  width:20%;
+  height:1%; 
+  x:60%;
+}

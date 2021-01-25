@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "711eebe5-84bc-4afa-b9cb-a36f68b34cbe",
+    "appType": "clockface",
+    "appDisplayName": "Final Fantasy 7 Menu",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Final Fantasy 7 Menu"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

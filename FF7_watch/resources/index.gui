@@ -1,0 +1,96 @@
+<svg class="background"> 
+  
+  <!--gray and black outline default on every gradient background option-->
+  <rect width="100%" height="100%" fill="gray"/>
+  <rect  x="1%" y="1%" width="99%" height="99%" fill="black" />
+  
+  
+ <svg id="gradient1" pointer-events='visible'>      
+    
+    <!-- Background Rect-->
+    <gradientRect  x="2%" y="2%" width="97%" height="96%"
+    gradient-type="bilinear"
+    gradient-x1="30" gradient-y1="30"
+    gradient-x2="100%-60" gradient-y2="100%-60"
+    gradient-color1= "rgb(0,0,176)"
+    gradient-color2="rgb(0,0,128)"
+    gradient-color3="rgb(0,0,80)"
+    gradient-color4="rgb(0,0,32)" />
+  
+  
+  
+  
+  <!-- Time Rect-->
+  
+    <rect x='5%' y='63%' fill='gray' width='62%' height='32%' />     
+    <gradientRect x='6%' y='64%'  width='60%' height='30%'   
+        gradient-type="bilinear"
+        gradient-x2="100%-60" gradient-y2="100%-60"
+        gradient-color1= "rgb(0,0,176)"
+        gradient-color2="rgb(0,0,128)"
+        gradient-color3="rgb(0,0,80)"
+        gradient-color4="rgb(0,0,32)" />
+   
+   
+</svg>
+  
+  
+  
+<!-- Cloud -->
+  
+  <svg>
+  <image id="img" class="img" href="images/1.png" pointer-events="visible" />
+  </svg>
+    
+  <!--<image class="img" id="cloud" href="images/cloud.png" pointer-events="visible"/>
+    <image class="img" id="barret" href="images/barret.png" pointer-events="visible"/>
+  -->
+ 
+  
+  <!--Date and time, modified in Css--> 
+  
+  <text id="currTime"/>
+  <text id="currDay"/>
+  <text id="currMonth"/>
+  
+  <text id = "heartRateLabel" class="menuLabels" y="15%" > HR </text>
+  <text id ="heartRate" class="menuValues" y = "15%"/>
+  
+  <text id = "batteryLabel" class="menuLabels" y="35%" > BT </text>
+  <text id="batteryNumber" class="menuValues" y="35%"/>
+  <rect id = "emptyBatteryBar" class = "emptyBar" y="37%"/>
+  <gradientRect id="batteryBar" x='60%' y='37%' width='20%' height='1%' 
+        gradient-type="linear"
+        gradient-x2="100%" gradient-y2="100%"
+        gradient-color1= "#4ff7ef"
+        gradient-color2="#ebdc6e"
+         />
+            
+    
+  <!-- Progress Bars --> 
+  
+  
+    <text id = "goalLabel" class="menuLabels" y="55%"> GL </text>
+    <text id="goalNumber" class="menuValues"/>
+    <rect id = "emptyGoalBar" class = "emptyBar" y="57%"/>
+    <gradientRect id="goalBar" x='60%' y='57%' width='20%' height='1%' 
+        gradient-type="linear"
+        gradient-x2="100%" gradient-y2="100%"
+        gradient-color1= "#4ff7ef"
+        gradient-color2="#ebdc6e"
+         />
+            
+  
+   
+   
+  <!-- Progress bars--> 
+  
+  
+ 
+  
+  
+  
+  
+</svg>
+
+
