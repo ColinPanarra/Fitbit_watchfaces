@@ -11,6 +11,7 @@ Uses fitbit library to keep track of heart rate and has bars to show battery/pro
 <br/>
 
 Dark Souls Inspired watchface:
+
 Has an animated gif, keeps track of heart rate, battery, and goal progress.
 Bottom right has a carousel that cycles through fitness metrics. <br/>
 ![FireLink](Firelink/firelink.gif)
