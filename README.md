@@ -7,8 +7,9 @@ Fitbit ionic watch faces I've made for my smartwatch using FITBIT SDK
 
 <p>Can cycle through characters with an onClick event.
 Uses fitbit library to keep track of heart rate and has bars to show battery/progress towards goal. <br/>
+  
 ![FinalFantasy](FF7_watch/ff7gif.gif)
-<br/>
+
 
 **Dark Souls Inspired watchface:**
 
