@@ -17,6 +17,6 @@ Has an animated gif, keeps track of heart rate, battery, and goal progress.
 Bottom right has a carousel that cycles through fitness metrics. <br/>
 ![FireLink](Firelink/firelink.gif)
 
-**Manchester United Watch Face**
+**Manchester United Watch Face** </br>
 Beginner project, displays time, date, and an image. <br/>
 ![MUFC Watch](MUFC_Watch/MUFC_Preview.png)
